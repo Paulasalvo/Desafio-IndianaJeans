@@ -1,0 +1,14 @@
+Producto articulo:jeans
+ precio:1500
+ descripcion:jeans bonito
+ codigo:111
+ talla:42
+ marca:umbrella
+ color:azul
+Producto articulo:polera
+ precio:1000
+ descripcion:polera bonita
+ codigo:222
+ talla:40
+ marca:nike
+ color:blanca
